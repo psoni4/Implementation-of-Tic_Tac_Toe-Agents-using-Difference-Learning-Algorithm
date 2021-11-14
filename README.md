@@ -1,4 +1,4 @@
-# Implementation-of-Tic_Tac_Toe-Agents-using-Difference-Learning-Algorithm
+# Implementation-of-Tic_Tac_Toe-Agents-using-Different-Learning-Algorithm
 Tic-Tac-Toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner.
 In this project, we intend to develop two agents who will learn how to play tic tac toe and compete again each other. Main objective of the project is to train two agents to learn Q-Learning or Minimax strategy to find which is the best available move strategy.
 Implementation of different learning algorithm like minimax, Q-learning and  random selection algorithm and comparing them with each other.
