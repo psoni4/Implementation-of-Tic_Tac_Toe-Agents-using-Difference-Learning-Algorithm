@@ -3,7 +3,7 @@ Tic-Tac-Toe is a paper-and-pencil game for two players, X and O, who take turns 
 In this project, we intend to develop two agents who will learn how to play tic tac toe and compete again each other. Main objective of the project is to train two agents to learn Q-Learning or Minimax strategy to find which is the best available move strategy.
 Implementation of different learning algorithm like minimax, Q-learning and  random selection algorithm and comparing them with each other.
 This project shall be finished before December 15th, 2021.
-Objective: To implement different learning algorithm, observe thier actions after 10000 games.
+Objective: To implement different learning algorithm, observe thier actions after 10000 games and compare
 # Approach
 Tools	Python 3.6 or above
 	Spyder
