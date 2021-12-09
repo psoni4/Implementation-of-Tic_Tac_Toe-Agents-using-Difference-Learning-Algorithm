@@ -8,7 +8,7 @@ Tic-Tac-Toe is a paper-and-pencil game for two players who take turns marking th
 
 In this project, we have trained a agent who will learn how to play Tic-Tac-Toe with reinforcement learning. Then, the agent competed against with other player or with itself. Main implementation of this project was to train the agent to learn the strategy to find the best available move and beat other Agent. Comparing the algorithms we have learned in class,especially for any finite Markov decision process (FMDP), Q-learning is a model-free reinforcement learning algorithm to learn the value of an action in a particular state and can find an optimal policy in the sense of maximizing the expected value of the total reward over any and all successive steps, starting from the current state. Thus, we chosen Q-Learning algorithm to train the agent.  
 
-![tic-tac-toe](Tic-Tac-Toe.png)
+
 
 ### Overview
 * Used two strategies: (RANDOM and Q-LEARNING) 
@@ -53,6 +53,6 @@ Initiated differently but as soon as they number of games increase, they both ha
 Q was losing when test for 10 games but as games increased to 1000 q learning was on higher side.
 
 ==================== <br>
-![results](RESULTS.png)
+results](RESULTS.png)
 
 
