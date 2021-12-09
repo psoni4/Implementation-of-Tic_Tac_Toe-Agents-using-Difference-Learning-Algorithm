@@ -1,7 +1,7 @@
 # Implementation-of-reinforcement-strategy-for-tic-tac-toe-player
 ----Ai-Final term project
 
-----Team Members: Chunwang Yuan & Preetam Narendra Soni (Graduate students at University of New Haven. Pursuing MS, Data Science(Batch-Dec 2022))
+----Team Members: Preetam Narendra Soni, Chunwang Yuan (Graduate students at University of New Haven. Pursuing MS, Data Science(Batch-Dec 2022))
 
 ## Introduction
 Tic-Tac-Toe is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
