@@ -53,6 +53,6 @@ Initiated differently but as soon as they number of games increase, they both ha
 Q was losing when test for 10 games but as games increased to 1000 q learning was on higher side.
 
 ==================== <br>
-results](RESULTS.png)
+![results](RESULTS.png)
 
 
