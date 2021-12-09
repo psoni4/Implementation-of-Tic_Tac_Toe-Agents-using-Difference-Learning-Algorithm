@@ -64,7 +64,7 @@ Q was losing when test for 10 games but as games increased to 1000 q learning wa
 ==================== <br>
 ![results](RESULTS.png)
 ![Random](Random Strategy.png)
-
+https://github.com/psoni4/Implementation-of-Tic_Tac_Toe-Agents-using-Difference-Learning-Algorithm/blob/main/Q-LEARNING-Algorithm.png
 
 Youtube video link: https://youtu.be/zqlZSSh49i0
 
