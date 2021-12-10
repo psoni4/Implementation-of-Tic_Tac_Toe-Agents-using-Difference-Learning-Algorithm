@@ -4,7 +4,7 @@
 ----Team Members: Preetam Narendra Soni, Chunwang Yuan (Graduate students at University of New Haven. Pursuing MS, Data Science(Batch-Dec 2022))
 # Implementation-of-Tic_Tac_Toe-Agents-using-Different-Learning-Algorithm
 Tic-Tac-Toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner.
-In this project, we intend to develop two agents who will learn how to play tic tac toe and compete again each other. Main objective of the project is to train two agents to learn Q-Learning or Minimax strategy to find which is the best available move strategy.
+In this project, we intend to develop two agents who will learn how to play tic tac toe and compete again each other. Main objective of the project is to train two agents to learn Q-Learning or random strategy to find which is the best available move strategy.
 Implementation of different learning algorithm like Q-learning and  random selection algorithm and comparing them with each other.
 This project shall be finished before December 15th, 2021.
 Objective: To implement different learning algorithm, observe thier actions after 10000 games and compare
@@ -51,7 +51,7 @@ Instructions on how to run the project:
 * **Step 1:** Download the zip file or clone the repository.
 * **Step 2:** cd to the directory where your downloaded folder is located.
 * **Step 3:** open the project folder in spyder
-* **Step 4:** open main.py and run
+* **Step 4:** run python3 main.py and run
 
 ## Results
 #### After 5000 games:
