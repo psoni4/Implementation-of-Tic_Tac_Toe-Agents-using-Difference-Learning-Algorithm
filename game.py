@@ -8,6 +8,7 @@ from board import Board
 
 class Game:
 
+    
     def __init__(self, player1, player2, board):
         self.player1 = player1
         self.player2 = player2
@@ -47,6 +48,7 @@ class Game:
 
 
 if __name__=='__main__':
+    #random strategy is randomly selecting positions from available ones.
     # p1=Player('Random_strategy','x')
     q_strategy=Q_learning()
     p1=Player(q_strategy,'x')
